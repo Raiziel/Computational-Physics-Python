@@ -1,9 +1,10 @@
+# Applied Physics and Mathematical Methods
 
-## Applied Physics and Mathematical Methods
-|Creator|Nicholas Valantino|
-|Email | NicholasValantino@gmail.com|
-|Website|raiziel.github.io|
+### 👤 Author
+**Nicholas Valantino**
 
+- 📧 Email: NicholasValantino@gmail.com  
+- 🌐 Website: https://raiziel.github.io
     
 ## Topic Outline
 |Subjects|
